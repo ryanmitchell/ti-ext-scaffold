@@ -1,0 +1,13 @@
+{
+  "code": "thoughtco.scaffold",
+  "name": "Extension Scaffold",
+  "description": "Use as a starting point for extensions",
+  "version": "1.0.0",
+  "author": "ryanmitchell",
+  "icon": {
+    "class": "fa fa-cart-plus",
+    "backgroundColor": "#111",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/ryanmitchell/ti-ext-scaffold"
+}
