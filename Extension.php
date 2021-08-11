@@ -4,9 +4,6 @@ namespace Thoughtco\Scaffold;
 
 use System\Classes\BaseExtension;
 
-/**
- * Choose Time Extension Information File
- */
 class Extension extends BaseExtension
 {
     public function boot()
