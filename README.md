@@ -12,4 +12,4 @@ In the admin user interface enable the extension.
 
 ### Namespacing
 
-Dont forget to change the namespaces to your own - it should be in the format `YourCompany/YourExtensionName`
+Dont forget to change the namespaces to your own - it should be in the format `YourCompany/YourExtensionName`. You will need to change the folder it lives in, eg `extensions/yourcompany/yourextensionname`
